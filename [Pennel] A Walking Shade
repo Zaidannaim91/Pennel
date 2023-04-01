@@ -1,0 +1,25 @@
+{
+   "title":"[Pennel] A Walking Shade",
+   "description":"",
+   "author":"Pennel",
+   "artist":"Pennel",
+   "cover":"https://i.imgur.com/SsPK9de.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/zDtW94W"
+         },
+         "last_updated":1624606143,
+         "title":"A Walking Shade",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/2Aevasj"
+         },
+         "last_updated":1624606143,
+         "title":"A Shade in Love",
+         "volume":"2"
+      }
+   }
+}
